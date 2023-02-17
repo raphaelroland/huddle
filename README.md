@@ -6,15 +6,13 @@ Frontendmentor challenge.
 ![huddle-readme](https://user-images.githubusercontent.com/47544994/218347971-bafc444b-c42d-4af7-839a-30b95b9344d2.gif)
 
 
-The project was built with what I learned in the DevQuest course in HTML5 and CSS3 classes, putting Grid and Flex skills into practice as well as responsiveness. 
-Google fonts and font awesome were used in this project.
+O projeto foi construído com HTML5 e CSS3.
 
+Agradecimento especial ao curso DevQuest e a todos os membros da Guilda DevQuest!
 
+# Links:
 
-### Built with
+https://www.linkedin.com/in/raphaelroland/
+https://github.com/raphaelroland
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
+Autor: Raphael Roland
