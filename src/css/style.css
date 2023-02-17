@@ -1,0 +1,107 @@
+body{
+    background-color: hsl(257, 40%, 49%);
+    background-image: url(../images/bg-desktop.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.logo .container{
+    margin: 50px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+    align-items: flex-start;
+}
+
+.text h1{
+    font-size: 50px;
+}
+.text > *{
+    margin-bottom: 20px;
+}
+
+.text button{
+    color: hsl(257, 40%, 49%);
+    padding: 14px 70px;
+    border-radius: 30px;
+    box-shadow: 0 px 0px 10px 0px rgba(0,0,0,0.75);
+}
+
+.text button:hover{
+    background-color: hsl(300, 69%, 71%);
+    color: white;
+    box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.75);
+    cursor: pointer;
+}
+
+.social{
+    margin: 20 px 80px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.fab{
+    margin: 15px;
+    padding: 10px;
+    border: solid 2px;
+    border-radius: 50%;
+    font-size: 30px;
+}
+.fa-facebook-f{
+    padding: 10px 15.63px;
+}
+.fa-instagram{
+    padding: 10px 11.9px;
+}
+.fab:hover{
+    color:hsl(300, 69%, 71%);
+    cursor: pointer;
+}
+
+@media (max-width:770px){
+    body{
+        background-image: url(../images/bg-mobile.svg);
+        background-size: contain;
+    }
+    .logo img{
+        width: 150px;
+    }
+    .container{
+        flex-direction: column;
+        margin: 30px;
+    }
+    .container img {
+        width: 300px;
+    }
+    .text{
+        align-items: center;
+    }
+    .text h1{
+        font-size: 24px;
+        text-align: center;
+    }
+    .text p{
+        font-size: 16px;
+        text-align: center;
+    }
+    .text button{
+        padding: 14px 100px;
+    }
+    .social{
+        align-items: center;
+        justify-content: center;
+    }
+    .fab{
+        font-size: 18px;
+    }
+}
+
