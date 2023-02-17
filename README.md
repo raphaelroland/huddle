@@ -1,10 +1,7 @@
-![logo](https://user-images.githubusercontent.com/47544994/218347712-060c9a35-da84-4504-808d-786fee69bf7e.svg)
+
 # huddle - Landing page
 
 Frontendmentor challenge.
-
-![huddle-readme](https://user-images.githubusercontent.com/47544994/218347971-bafc444b-c42d-4af7-839a-30b95b9344d2.gif)
-
 
 O projeto foi construído com HTML5 e CSS3.
 
