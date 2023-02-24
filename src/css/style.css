@@ -40,7 +40,7 @@ body{
     color: hsl(257, 40%, 49%);
     padding: 14px 70px;
     border-radius: 30px;
-    box-shadow: 0 px 0px 10px 0px rgba(0,0,0,0.75);
+/*     box-shadow: 0 px 0px 10px 0px rgba(0,0,0,0.75); */
 }
 
 .text button:hover{
